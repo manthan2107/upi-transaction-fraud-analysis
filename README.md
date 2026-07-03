@@ -92,27 +92,7 @@ UPI-Fraud-Transaction-Analysis/
 
 ---
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/UPI-Fraud-Transaction-Analysis.git
-```
-
-Install the required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn plotly
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook UPI.ipynb
-```
-
----
 
 ## Future Scope
 
